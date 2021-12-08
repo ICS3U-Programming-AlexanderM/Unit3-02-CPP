@@ -8,7 +8,7 @@
 
 
 int main() {
-    // this function checks if ther is over 30 students
+    // this function checks the user's number
     const int CORRECT = 8;
     float userNumber;
 
